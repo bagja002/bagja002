@@ -1,211 +1,90 @@
-# Hi, I'm Bagja Lazwardi 👋
-
-### Software Engineer · AI Engineer · Data Scientist · Educator
-
-I build **scalable software, intelligent systems, and practical AI solutions**.
-Currently focused on **Backend Engineering, Generative AI, AI Automation, and Machine Learning**.
-
----
-
-## About Me
-
-* Software Engineer with experience in **Backend & Full-Stack Development**
-* Building backend systems using **Golang**
-* Developing modern web applications with **Next.js & React**
-* Exploring **Generative AI, AI Agents, and AI Automation**
-* Interested in **Machine Learning & Deep Learning**
-* Coding Teacher & Mentor at **Kelas Santai**
-* Passionate about building technology and sharing knowledge
-
-> *"Build systems. Learn continuously. Share knowledge."*
-
----
-
-## Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GORM-FF6B35?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge"/>
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### Automation & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-## What I Build
-
-### Software Engineering
-
-* RESTful API
-* Backend Services
-* Microservices
-* Authentication & Authorization
-* Database Architecture
-* System Integration
-* Full-Stack Applications
-* Cloud & Containerized Applications
-
-### Artificial Intelligence
-
-* Machine Learning
-* Deep Learning
-* Generative AI
-* LLM Applications
-* AI Agents
-* AI Automation
-* AI Chatbots
-* Retrieval-Augmented Generation (RAG)
-
-### Automation
-
-* Workflow Automation
-* Business Process Automation
-* AI-powered Automation
-* API Integration
-* n8n Workflows
-
----
-
-## Featured Projects
-
-### 🚀 E-Laut
-
-Training and learning platform for the fisheries and marine sector.
-
-**Stack:**
-`Golang` · `Next.js` · `MySQL` · `Docker`
-
----
-
-### 🤖 AI Automation
-
-Experimenting with AI-powered automation using LLMs, APIs, and workflow automation.
-
-**Stack:**
-`n8n` · `OpenAI` · `Claude` · `DeepSeek` · `Docker`
-
----
-
-### 🧠 Machine Learning Research
-
-Research and experimentation in **image classification using Convolutional Neural Networks (CNN)**.
-
-**Focus:**
-`Computer Vision` · `CNN` · `Transfer Learning` · `InceptionV3`
-
----
-
-### 🎓 Kelas Santai
-
-An online learning initiative focused on making **IT education accessible and practical**.
-
-Topics include:
-
-* Backend Engineering
-* Full-Stack Development
-* Golang
-* Next.js
-* AI Engineering
-* Generative AI
-* AI Automation
-* n8n
-
----
-
-## Currently Learning
-
 ```text
-Generative AI
-      ↓
-LLM Engineering
-      ↓
-RAG
-      ↓
-AI Agents
-      ↓
-Agentic AI
-      ↓
-AI Automation
+$ whoami
+
+BAGJA LAZWARDI  <s.mat>
+backend & systems engineer · jakarta, id · gmt+7
+
+role       Information System Logic Analyst
+org        KKP · BPPSDM — Ministry of Marine Affairs and Fisheries
+since      2020
+shipped    8 systems in production
+available  yes — full-time or contract
 ```
 
-I'm continuously exploring how AI can be integrated into real-world software systems to create **useful, scalable, and production-ready applications**.
+I build the information systems that issue certificates, run competency
+examinations, and track budget realisation across Indonesia's marine and
+fisheries sector. System integration, service architecture, and the
+unglamorous reliability that public infrastructure runs on.
+
+Mathematics graduate, self-taught engineer. I don't just write the code —
+I want to understand the *why* behind every architectural decision.
 
 ---
 
-## GitHub Stats
+## Systems in production
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-</p>
+Most of these run inside Indonesian government agencies, where the users
+have no alternative and downtime is somebody's missed certification.
 
----
+| ref | year | client | system | |
+|:--|:--|:--|:--|:--|
+| `E-LAUT` | 2024 | BPPSDM KP | Training, certification and competency development platform | [open](https://elaut-bppsdm.kkp.go.id/) |
+| `E-LATAR` | 2024 | BPPSDM KP | Academic platform for marine and fisheries academies | [open](https://elatar-bppsdm.kkp.go.id/) |
+| `E-PROC` | 2024 | BPPSDM KP | Procurement, budgeting and realisation dashboard | [open](http://eproc-bppsdm.ikulatluh.cloud/) |
+| `SIKAP` | 2024 | DPKAKP | Examination management for fishing vessel crew (AKP) | [open](https://sikap-dpkakp-dev.vercel.app/) |
+| `SICEPATKU` | 2024 | BPPSDM KP | Key performance indicator (IKU) management system | [open](https://siceppatku.ikulatluh.cloud/) |
+| `BMKG-EDA` | 2023 | independent | Rainfall analysis and forecasting, Jakarta 1995–2022 | [open](https://bisa.ai/portofolio/detail/Njk4) |
+| `ANN-TEA` | 2023 | independent | Neural network classification of menu items by tea content | [open](https://bisa.ai/portofolio/detail/NTYw) |
 
-## GitHub Streak
+I also built electronic signature integration with **BSRE** (the national
+certification authority) and optimised the Fishery Crew Certificate
+Issuance System.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+> Most of my day-to-day work lives in private ministry repositories, so the
+> contribution graph below tells you very little. The list above is the
+> honest record — every entry is a system you can open right now.
 
 ---
 
-<p align="center">
-  <b>Software Engineer × AI Engineer × Educator</b>
-</p>
+## Stack
 
-<p align="center">
-  Building technology, learning continuously, and sharing knowledge.
-</p>
+```text
+languages       Go · TypeScript · JavaScript · Python · PHP · SQL · C++
+frameworks      Fiber · Next.js · FastAPI · Flask · Laravel · TailwindCSS
+datastores      MySQL · PostgreSQL · MongoDB · Redis
+infrastructure  Docker · Linux · Nginx · GCP · GitHub Actions · Git
+```
+
+Go and Fiber for services, Next.js for interfaces, MySQL underneath, Docker
+around it. Python when the problem is a dataset rather than a system.
+
+---
+
+## Route here
+
+```text
+2020  init    Self-taught during the pandemic. No bootcamp, no CS degree.
+2023  intern  Software engineer at one of Indonesia's largest toll road
+              companies — system integration, backend, and a procurement
+              monitoring platform.
+2024  hired   Recruited by the Ministry of Marine Affairs and Fisheries
+              before graduating.
+now   focus   Fullstack and backend, specialising in system integration
+              and microservices architecture.
+```
+
+---
+
+## Contact
+
+```text
+email     barjafaskan9@gmail.com
+portfolio https://bagja002.github.io/portofolio
+linkedin  linkedin.com/in/bagja-lazwardi-221935174
+location  Jakarta, Indonesia — remote welcome
+reply     within 24 hours, weekdays GMT+7
+```
+
+```text
+$ exit
+```
