@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Jakarta,%20Indonesia-0b0b0a?style=for-the-badge&logo=googlemaps&logoColor=f0a92e" alt="Jakarta, Indonesia" />
 <img src="https://img.shields.io/badge/GMT%2B7-0b0b0a?style=for-the-badge&logo=clockify&logoColor=f0a92e" alt="GMT+7" />
 <img src="https://img.shields.io/badge/Open%20for%20work-1c6b4b?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open for work" />
-<img src="https://komarev.com/ghpvc/?username=bagja002&style=for-the-badge&color=f0a92e&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br /><br />
 
@@ -112,24 +111,23 @@ available  yes — full-time or contract
 
 ---
 
-## 📊 GitHub stats
+## 📊 By the numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bagja002&show_icons=true&hide_border=true&bg_color=0b0b0a&title_color=f0a92e&text_color=d8cbb0&icon_color=f0a92e&ring_color=f0a92e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagja002&layout=compact&hide_border=true&bg_color=0b0b0a&title_color=f0a92e&text_color=d8cbb0" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/bagja002?style=for-the-badge&logo=github&label=FOLLOWERS&color=f0a92e&labelColor=0b0b0a" alt="Followers" />
+<img src="https://img.shields.io/github/stars/bagja002?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=f0a92e&labelColor=0b0b0a" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/bagja002/portofolio?style=for-the-badge&logo=git&label=LAST%20PUSH&color=f0a92e&labelColor=0b0b0a" alt="Last push" />
+
+<br />
+
+<img src="https://img.shields.io/badge/SYSTEMS%20SHIPPED-8-f0a92e?style=for-the-badge&labelColor=0b0b0a" alt="8 systems shipped" />
+<img src="https://img.shields.io/badge/WRITING%20CODE%20SINCE-2020-f0a92e?style=for-the-badge&labelColor=0b0b0a" alt="Since 2020" />
+<img src="https://img.shields.io/badge/PRIMARY%20STACK-Go%20%2B%20Next.js-f0a92e?style=for-the-badge&labelColor=0b0b0a" alt="Primary stack" />
 
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=bagja002&hide_border=true&background=0b0b0a&stroke=2b2822&ring=f0a92e&fire=f0a92e&currStreakLabel=f0a92e&sideLabels=d8cbb0&currStreakNum=f5eddc&sideNums=f5eddc&dates=918770" alt="Contribution streak" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=bagja002&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bagja002&bg_color=0b0b0a&color=f5eddc&line=f0a92e&point=f0a92e&area_color=f0a92e&area=true&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
 
