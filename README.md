@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0b0b0a,50:8a5f14,100:f0a92e&text=Bagja%20Lazwardi&fontColor=f5eddc&fontSize=52&fontAlignY=32&desc=Backend%20%26%20Systems%20Engineer%20%C2%B7%20S.Mat&descAlignY=53&descSize=18" width="100%" alt="Bagja Lazwardi — Backend & Systems Engineer" />
 
 <a href="https://bagja002.github.io/portofolio">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&pause=1200&color=F0A92E&center=true&vCenter=true&width=650&lines=8+systems+running+in+production;Ministry+of+Marine+Affairs+%26+Fisheries;Go+%E2%80%A2+Next.js+%E2%80%A2+Docker+%E2%80%A2+MySQL;Public+infrastructure+that+actually+ships" alt="What I do" />
